@@ -25,4 +25,4 @@ Content-Type: application/json
 ### users
 
 GET http://127.0.0.1:3000/users
-Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFkbWluQGdtYWlsLmNvbSIsImlkIjoxLCJpYXQiOjE3MzEzNjA1NTYsImV4cCI6MTczMTM2MDYxNn0.UE-jhqOExdpLhL9iQqfArfll20hZCj-20RzD3-_H9qQ
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFkbWluQGdtYWlsLmNvbSIsImlkIjoxLCJpYXQiOjE3MzI4OTEzNDksImV4cCI6MTczMjg5MTQwOX0.Z_JzjjG-epwKlrPNMencsF5CQLzQ22xw9_APnGJaY2Y
